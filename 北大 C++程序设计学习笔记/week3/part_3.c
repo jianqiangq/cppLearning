@@ -1,0 +1,1 @@
+	Big(int i) :v(i), b(i){}

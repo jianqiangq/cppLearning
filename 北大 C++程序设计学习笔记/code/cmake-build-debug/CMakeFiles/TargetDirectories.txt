@@ -1,0 +1,3 @@
+/Users/qianjianqiang/workspace/C++/北大 C++程序设计/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qianjianqiang/workspace/C++/北大 C++程序设计/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qianjianqiang/workspace/C++/北大 C++程序设计/code/cmake-build-debug/CMakeFiles/code.dir

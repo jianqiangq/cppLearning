@@ -1,0 +1,6 @@
+### 函数指针 function pointer
+
+```
+void qsort(void *base, int nelem,unsigned int width, int (* pfCompare)(const void *, const void *))
+```
+
